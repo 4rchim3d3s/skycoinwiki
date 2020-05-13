@@ -1,3 +1,7 @@
+layout: page
+title: "CXO 2"
+permalink: /
+
 ![CXO2](../../Images/blob/master/headers/cxo.png?raw=true)
 [**HOME**](../../SkycoinProject/wiki) » [**SOFTWARE**](../../SkycoinProject/wiki#software) » **CXO 2**
 
