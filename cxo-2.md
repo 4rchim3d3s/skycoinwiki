@@ -67,3 +67,5 @@ https://medium.com/@bksquared1024/how-to-use-skycoins-cxo-2-0-43754d3564ac
 [commit-activity-one-year-image]: https://img.shields.io/github/commit-activity/y/SkycoinProject/cxo-2.svg?style=social
 [commit-last-image]: https://img.shields.io/github/last-commit/SkycoinProject/cxo-2.svg?style=social
 [commit-last-url]: https://github.com/SkycoinProject/cxo-2/graphs/commit-activity?branch=develop
+
+[test]: 1234
